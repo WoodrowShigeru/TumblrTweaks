@@ -1,2 +1,2 @@
 # TumblrTweaks
-Expanding the Tumblr experience.
+Tweaking the Tumblr browsing experience.
