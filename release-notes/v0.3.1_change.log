@@ -8,6 +8,16 @@
 [[ v0.3.1 ]]
   ¯¯¯¯¯¯¯¯
 
+· (( 2o16-o7-14 ))
+
+Structure:
+    Expanded the manifest and environment analysis to also
+    cover direct URLs to images.
+
+New feature:
+    Injected a simple image controller.
+
+
 · (( 2o16-o3-12 ))
 
 Concept:
