@@ -10,6 +10,17 @@
 
 · (( 2o16-o7-14 ))
 
+New feature:
+    Finally implemented a long-planned module,
+    "repair_external_links".
+
+Optimization, update:
+    Modified the environment analysis. And repaired the
+    previously established module "redirect_overwrite".
+
+
+· (( 2o16-o7-14 ))
+
 Structure:
     Expanded the manifest and environment analysis to also
     cover direct URLs to images.
